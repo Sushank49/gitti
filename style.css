@@ -1,3 +1,4 @@
+
 *{
 	margin: 0;
 	padding: 0;
@@ -146,18 +147,18 @@ ul li a:hover {
  .content .nhard{
 	display:block;
  	color: red;
-	font-family: RM Typerighter old;
- 	font-size: 120px;
+	font-family: modern typewriter;
+ 	font-size: 70px;
 	font-weight: bold;
 	padding-bottom: 10px;
 	width: 30vw;
  }
  .content .smart{
 	display: block;
-	font-family: RM Typerighter old;
-	font-size: 120px;
+	font-family: modern typewriter;
+	font-size: 70px;
 	font-weight: bold;
-	width: 30vw;
+	width: 50vw;
 
  }
 
