@@ -23,6 +23,14 @@
 	float:left;
 	height:70px;	
 }
+.icon a{
+	display: block;
+	position: absolute;
+	left: 11vw;
+	height: 14vh;
+	width: 8vw;
+	cursor:auto;
+}
 .logo{
 	color: rgb(255, 255, 255);
     font-size: 45px;
@@ -30,10 +38,10 @@
     padding-left: 30px;
     float: left;
     padding-top: 0px;
-    height: 30vh;
+    height: 20vh;
     position: relative;
-    bottom: 7.5vh;
-    right: 4vw;
+    bottom: 3vh;
+    right: 2vw;
 } 
 .menu{
 	width:400px;

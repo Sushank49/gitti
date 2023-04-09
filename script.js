@@ -3,6 +3,7 @@ main.addEventListener('click', mainFunction)
 let mainFunctionCount = 0;
 
 
+
 function mainFunction() {
     if (mainFunctionCount == 0) {
         mainFunctionCount += 1;
